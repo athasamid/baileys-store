@@ -1,11 +1,11 @@
 {
-  "name": "@ookamiiixd/baileys-store",
+  "name": "@athasamid/baileys-store",
   "version": "1.0.0-beta.1",
   "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/ookamiiixd/baileys-store.git",
-  "author": "Royhan (https://github.com/ookamiiixd)",
+  "repository": "https://github.com/athasamid/baileys-store.git",
+  "author": "Atha (https://github.com/athasamid)",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
